@@ -16,5 +16,5 @@ Not_found=a+b
 print(Not_found)
 print(b+int(a))
 # 5 пункт
-
+print("New line")
 # end homework 1 week
